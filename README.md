@@ -17,8 +17,8 @@ Este é um projeto Full Stack que consiste em um blog pessoal, onde os usuários
 
 ## 🌍 Deploy  
 
-🔹 **API RESTful:** *URL do deploy da API (caso tenha)*  
-🔹 **Aplicação Web:** *URL do deploy do front-end (caso tenha)*  
+🔹 **API RESTful:** *https://blogpessoal-5443.onrender.com*  
+🔹 **Aplicação Web:** *https://blogpessoal-react-gules.vercel.app*  
 
 ---
 
